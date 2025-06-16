@@ -1,3 +1,6 @@
+#disclamer
+This tool is for educational and authorized testing purposes only. Never scan systems you don’t own or have permission to scan.
+
 #Basic port scanner
 
 A simple port scanner written in Go to check if ports on a target are open.
